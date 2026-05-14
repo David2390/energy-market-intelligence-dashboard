@@ -212,6 +212,12 @@ DATABASE_URL = "postgresql+psycopg2://postgres:YOUR_PASSWORD@localhost:5432/oil_
 
 ---
 
+## Additional Documentation
+
+[Architecture Notes](docs/architecture_notes.md)
+
+---
+
 # Future Enhancements
 
 Planned improvements include:
